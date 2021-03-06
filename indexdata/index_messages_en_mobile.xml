@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[MOUNT VERNON: Lives Bound Together]]></data>
+  <data name="en_project_author_name"><![CDATA[HULLFILM]]></data>
+  <data name="en_project_author_url"><![CDATA[https://hullfilm.com]]></data>
+
+
+
+  <data name="en_pano10_title"><![CDATA[Slavery & the Washingtons' World]]></data>
+  <data name="en_spotpolygon131_tooltip"><![CDATA[Houdon Bust]]></data>
+  <data name="en_spotpolygon131websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=424]]></data>
+  <data name="en_spotpolygon131websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon132_tooltip"><![CDATA[Population of Mount Vernon]]></data>
+  <data name="en_spotpolygon132websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=425]]></data>
+  <data name="en_spotpolygon132websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon133_tooltip"><![CDATA[Slavery & the Washingtons' World]]></data>
+  <data name="en_spotpolygon133websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=426]]></data>
+  <data name="en_spotpolygon133websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon134_tooltip"><![CDATA[Tom]]></data>
+  <data name="en_spotpolygon134websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=427]]></data>
+  <data name="en_spotpolygon134websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon135_tooltip"><![CDATA[Sugar and Slavery]]></data>
+  <data name="en_spotpolygon135websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=428]]></data>
+  <data name="en_spotpolygon135websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon136_tooltip"><![CDATA[Dining at Mount Vernon]]></data>
+  <data name="en_spotpolygon136websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=429]]></data>
+  <data name="en_spotpolygon136websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon137_tooltip"><![CDATA[Frank Lee]]></data>
+  <data name="en_spotpolygon137websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=430]]></data>
+  <data name="en_spotpolygon137websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon138_tooltip"><![CDATA[Reading Between the Lines]]></data>
+  <data name="en_spotpolygon138websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=431]]></data>
+  <data name="en_spotpolygon138websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon139_tooltip"><![CDATA[Kitchen Equipment]]></data>
+  <data name="en_spotpolygon139websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=432]]></data>
+  <data name="en_spotpolygon139websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon141_tooltip"><![CDATA[Doll]]></data>
+  <data name="en_spotpolygon141websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=433]]></data>
+  <data name="en_spotpolygon141websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon142_tooltip"><![CDATA[A Day in the Life of an Enslaved Cook]]></data>
+  <data name="en_spotpolygon142websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=434]]></data>
+  <data name="en_spotpolygon142websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon143_tooltip"><![CDATA[Caroline Branham]]></data>
+  <data name="en_spotpolygon143websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=436]]></data>
+  <data name="en_spotpolygon143websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon144_tooltip"><![CDATA[Housework at Mount Vernon]]></data>
+  <data name="en_spotpolygon144websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=437]]></data>
+  <data name="en_spotpolygon144websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37589_tooltip"><![CDATA[VIDEO: Caroline Branham]]></data>
+  <data name="en_spotpoint37589webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://www.youtube.com/watch?v=pWMIqBmZmpk]]></data>
+  <data name="en_spotpoint37589webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37590_tooltip"><![CDATA[VIDEO: Doll]]></data>
+  <data name="en_spotpoint37590webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://www.youtube.com/watch?v=bnDJkxFyUAM]]></data>
+  <data name="en_spotpoint37590webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37600_tooltip"><![CDATA[Continue to Soldier, Statesman, Slaveholder]]></data>
+
+
+  <data name="en_pano11_title"><![CDATA[Soldier, Statesman, Slaveholder]]></data>
+  <data name="en_spotpolygon145_tooltip"><![CDATA[William Lee]]></data>
+  <data name="en_spotpolygon145websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=438]]></data>
+  <data name="en_spotpolygon145websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon146_tooltip"><![CDATA[Washington and the Revolutionary War]]></data>
+  <data name="en_spotpolygon146websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=439]]></data>
+  <data name="en_spotpolygon146websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon147_tooltip"><![CDATA[Portrait of George Washington]]></data>
+  <data name="en_spotpolygon147websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=4440]]></data>
+  <data name="en_spotpolygon147websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon148_tooltip"><![CDATA[Washington and William Lee]]></data>
+  <data name="en_spotpolygon148websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=441]]></data>
+  <data name="en_spotpolygon148websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon149_tooltip"><![CDATA[Washington's Views]]></data>
+  <data name="en_spotpolygon149websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=442]]></data>
+  <data name="en_spotpolygon149websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon150_tooltip"><![CDATA[Changing Views]]></data>
+  <data name="en_spotpolygon150websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=443]]></data>
+  <data name="en_spotpolygon150websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon151_tooltip"><![CDATA[The Washington Family]]></data>
+  <data name="en_spotpolygon151websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=444]]></data>
+  <data name="en_spotpolygon151websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon152_tooltip"><![CDATA[Hercules]]></data>
+  <data name="en_spotpolygon152websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=445]]></data>
+  <data name="en_spotpolygon152websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon153_tooltip"><![CDATA[Martha Washington and Slavery]]></data>
+  <data name="en_spotpolygon153websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=446]]></data>
+  <data name="en_spotpolygon153websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon154_tooltip"><![CDATA[Principles and Politics]]></data>
+  <data name="en_spotpolygon154websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=501]]></data>
+  <data name="en_spotpolygon154websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37591_tooltip"><![CDATA[VIDEO: William Lee]]></data>
+  <data name="en_spotpoint37591webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/whl7qmUUm0g]]></data>
+  <data name="en_spotpoint37591webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37592_tooltip"><![CDATA[VIDEO: Hercules]]></data>
+  <data name="en_spotpoint37592webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/mLaC8fknN4s]]></data>
+  <data name="en_spotpoint37592webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37601_tooltip"><![CDATA[Return to Slavery & the Washingtons' World]]></data>
+  <data name="en_spotpoint37602_tooltip"><![CDATA[Continue to Clothing and Personal Style]]></data>
+
+
+  <data name="en_pano12_title"><![CDATA[Clothing and Personal Style]]></data>
+  <data name="en_spotpolygon156_tooltip"><![CDATA[Clothing and Personal Style]]></data>
+  <data name="en_spotpolygon156websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=447]]></data>
+  <data name="en_spotpolygon156websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon157_tooltip"><![CDATA[Giles]]></data>
+  <data name="en_spotpolygon157websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=448]]></data>
+  <data name="en_spotpolygon157websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon158_tooltip"><![CDATA[Personal Accessories]]></data>
+  <data name="en_spotpolygon158websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=449]]></data>
+  <data name="en_spotpolygon158websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon159_tooltip"><![CDATA[Reproduction Clothing]]></data>
+  <data name="en_spotpolygon159websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=450]]></data>
+  <data name="en_spotpolygon159websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon160_tooltip"><![CDATA[Textile Production]]></data>
+  <data name="en_spotpolygon160websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=451]]></data>
+  <data name="en_spotpolygon160websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon161_tooltip"><![CDATA[Clothing Rations]]></data>
+  <data name="en_spotpolygon161websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=502]]></data>
+  <data name="en_spotpolygon161websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37603_tooltip"><![CDATA[Continue to Daily Life on Mount Vernon's Five Farms A]]></data>
+  <data name="en_spotpoint37604_tooltip"><![CDATA[Return to Soldier, Statesman, Slaveholder]]></data>
+
+
+  <data name="en_pano103_title"><![CDATA[Daily Life on Mount Vernon's Five Farms A]]></data>
+  <data name="en_spotpolygon162_tooltip"><![CDATA[Daily Life]]></data>
+  <data name="en_spotpolygon162websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=452]]></data>
+  <data name="en_spotpolygon162websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon163_tooltip"><![CDATA[Sambo]]></data>
+  <data name="en_spotpolygon163websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=453]]></data>
+  <data name="en_spotpolygon163websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon164_tooltip"><![CDATA[Skilled Trades]]></data>
+  <data name="en_spotpolygon164websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=454]]></data>
+  <data name="en_spotpolygon164websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon165_tooltip"><![CDATA[Priscilla and Penny]]></data>
+  <data name="en_spotpolygon165websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=455]]></data>
+  <data name="en_spotpolygon165websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon166_tooltip"><![CDATA[Living Conditions]]></data>
+  <data name="en_spotpolygon166websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=456]]></data>
+  <data name="en_spotpolygon166websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon167_tooltip"><![CDATA[Food]]></data>
+  <data name="en_spotpolygon167websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=457]]></data>
+  <data name="en_spotpolygon167websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon168_tooltip"><![CDATA[The Landscape]]></data>
+  <data name="en_spotpolygon168websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=458]]></data>
+  <data name="en_spotpolygon168websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon169_tooltip"><![CDATA[George]]></data>
+  <data name="en_spotpolygon169websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=459]]></data>
+  <data name="en_spotpolygon169websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon170_tooltip"><![CDATA[Five Farms]]></data>
+  <data name="en_spotpolygon170websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=460]]></data>
+  <data name="en_spotpolygon170websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon171_tooltip"><![CDATA[Davy Gray]]></data>
+  <data name="en_spotpolygon171websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=461]]></data>
+  <data name="en_spotpolygon171websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37593_tooltip"><![CDATA[VIDEO: Penny]]></data>
+  <data name="en_spotpoint37593webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/MwzoXfI8sD4]]></data>
+  <data name="en_spotpoint37593webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37605_tooltip"><![CDATA[Return to Clothing and Personal Style]]></data>
+  <data name="en_spotpoint37606_tooltip"><![CDATA[Continue to Daily Life on Mount Vernon's Five Farms B]]></data>
+
+
+  <data name="en_pano14_title"><![CDATA[Daily Life on Mount Vernon's Five Farms B]]></data>
+  <data name="en_spotpolygon172_tooltip"><![CDATA[Five Farms]]></data>
+  <data name="en_spotpolygon172websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=460]]></data>
+  <data name="en_spotpolygon172websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon173_tooltip"><![CDATA[Davy Gray]]></data>
+  <data name="en_spotpolygon173websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=461]]></data>
+  <data name="en_spotpolygon173websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon174_tooltip"><![CDATA[Resistance and Punishment]]></data>
+  <data name="en_spotpolygon174websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=462]]></data>
+  <data name="en_spotpolygon174websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon175_tooltip"><![CDATA[Caesar]]></data>
+  <data name="en_spotpolygon175websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=463]]></data>
+  <data name="en_spotpolygon175websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon176_tooltip"><![CDATA[The Landscape]]></data>
+  <data name="en_spotpolygon176websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=458]]></data>
+  <data name="en_spotpolygon176websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon177_tooltip"><![CDATA[George]]></data>
+  <data name="en_spotpolygon177websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=459]]></data>
+  <data name="en_spotpolygon177websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon178_tooltip"><![CDATA[Sambo]]></data>
+  <data name="en_spotpolygon178websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=453]]></data>
+  <data name="en_spotpolygon178websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon179_tooltip"><![CDATA[Food]]></data>
+  <data name="en_spotpolygon179websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=457]]></data>
+  <data name="en_spotpolygon179websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon180_tooltip"><![CDATA[Priscilla & Penny]]></data>
+  <data name="en_spotpolygon180websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=455]]></data>
+  <data name="en_spotpolygon180websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon181_tooltip"><![CDATA[Living Conditions]]></data>
+  <data name="en_spotpolygon181websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=456]]></data>
+  <data name="en_spotpolygon181websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon182_tooltip"><![CDATA[Community and Traditions]]></data>
+  <data name="en_spotpolygon182websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=464]]></data>
+  <data name="en_spotpolygon182websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon183_tooltip"><![CDATA[Kate]]></data>
+  <data name="en_spotpolygon183websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=465]]></data>
+  <data name="en_spotpolygon183websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37594_tooltip"><![CDATA[VIDEO: Penny]]></data>
+  <data name="en_spotpoint37594webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/MwzoXfI8sD4]]></data>
+  <data name="en_spotpoint37594webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37595_tooltip"><![CDATA[VIDEO: Kate]]></data>
+  <data name="en_spotpoint37595webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/YT4dPbWwtKI]]></data>
+  <data name="en_spotpoint37595webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37607_tooltip"><![CDATA[Return to Daily Life on Mount Vernon's Five Farms A]]></data>
+  <data name="en_spotpoint37608_tooltip"><![CDATA[Continue to Daily Life on Mount Vernon's Five Farms C]]></data>
+
+
+  <data name="en_pano111_title"><![CDATA[Daily Life on Mount Vernon's Five Farms C]]></data>
+  <data name="en_spotpolygon184_tooltip"><![CDATA[Growth of Community]]></data>
+  <data name="en_spotpolygon184websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=466]]></data>
+  <data name="en_spotpolygon184websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon185_tooltip"><![CDATA[Edward Savage Paintings]]></data>
+  <data name="en_spotpolygon185websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=467]]></data>
+  <data name="en_spotpolygon185websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon186_tooltip"><![CDATA[Davy Gray]]></data>
+  <data name="en_spotpolygon186websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=461]]></data>
+  <data name="en_spotpolygon186websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon187_tooltip"><![CDATA[Agricultural Management]]></data>
+  <data name="en_spotpolygon187websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=468]]></data>
+  <data name="en_spotpolygon187websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon188_tooltip"><![CDATA[Day in the Life of an Enslaved Field Worker]]></data>
+  <data name="en_spotpolygon188websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=469]]></data>
+  <data name="en_spotpolygon188websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon189_tooltip"><![CDATA[Resistance]]></data>
+  <data name="en_spotpolygon189websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=470]]></data>
+  <data name="en_spotpolygon189websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon190_tooltip"><![CDATA[Caesar]]></data>
+  <data name="en_spotpolygon190websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=463]]></data>
+  <data name="en_spotpolygon190websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon191_tooltip"><![CDATA[Punishment]]></data>
+  <data name="en_spotpolygon191websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=471]]></data>
+  <data name="en_spotpolygon191websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37609_tooltip"><![CDATA[Return to Daily Life on Mount Vernon's Five Farms B]]></data>
+  <data name="en_spotpoint37610_tooltip"><![CDATA[Continue to Books and Manuscripts A]]></data>
+
+
+  <data name="en_pano112_title"><![CDATA[Books and Manuscripts A]]></data>
+  <data name="en_spotpolygon192_tooltip"><![CDATA[Plantation Management]]></data>
+  <data name="en_spotpolygon192websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=472]]></data>
+  <data name="en_spotpolygon192websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon193_tooltip"><![CDATA[Ona Judge]]></data>
+  <data name="en_spotpolygon193websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=473]]></data>
+  <data name="en_spotpolygon193websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon194_tooltip"><![CDATA[Slavery in the 19th Century]]></data>
+  <data name="en_spotpolygon194websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=474]]></data>
+  <data name="en_spotpolygon194websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon195_tooltip"><![CDATA[Documentary Record]]></data>
+  <data name="en_spotpolygon195websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=475]]></data>
+  <data name="en_spotpolygon195websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon196_tooltip"><![CDATA[Founding Documents]]></data>
+  <data name="en_spotpolygon196websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=476]]></data>
+  <data name="en_spotpolygon196websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon197_tooltip"><![CDATA[Peale Portrait]]></data>
+  <data name="en_spotpolygon197websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=477]]></data>
+  <data name="en_spotpolygon197websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon198_tooltip"><![CDATA[George Washington's Changing Views]]></data>
+  <data name="en_spotpolygon198websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=478]]></data>
+  <data name="en_spotpolygon198websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon199_tooltip"><![CDATA[Martha Washington and the Custis Estate]]></data>
+  <data name="en_spotpolygon199websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=479]]></data>
+  <data name="en_spotpolygon199websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37597_tooltip"><![CDATA[VIDEO: Ona Judge]]></data>
+  <data name="en_spotpoint37597webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/O9qf6WWc6QU]]></data>
+  <data name="en_spotpoint37597webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37611_tooltip"><![CDATA[Return to Daily Life on Mount Vernon's Five Farms C]]></data>
+  <data name="en_spotpoint37612_tooltip"><![CDATA[Continue to Books and Manuscripts B]]></data>
+
+
+  <data name="en_pano113_title"><![CDATA[Books and Manuscripts B]]></data>
+  <data name="en_spotpolygon200_tooltip"><![CDATA[Plantation Management]]></data>
+  <data name="en_spotpolygon200websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=472]]></data>
+  <data name="en_spotpolygon200websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon201_tooltip"><![CDATA[Ona Judge]]></data>
+  <data name="en_spotpolygon201websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=473]]></data>
+  <data name="en_spotpolygon201websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon202_tooltip"><![CDATA[Slavery in the 19th Century]]></data>
+  <data name="en_spotpolygon202websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=474]]></data>
+  <data name="en_spotpolygon202websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon203_tooltip"><![CDATA[Documentary Record]]></data>
+  <data name="en_spotpolygon203websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=475]]></data>
+  <data name="en_spotpolygon203websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon204_tooltip"><![CDATA[Founding Documents]]></data>
+  <data name="en_spotpolygon204websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=476]]></data>
+  <data name="en_spotpolygon204websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon205_tooltip"><![CDATA[George Washington's Changing Views]]></data>
+  <data name="en_spotpolygon205websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=478]]></data>
+  <data name="en_spotpolygon205websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon206_tooltip"><![CDATA[Peale Portrait]]></data>
+  <data name="en_spotpolygon206websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=477]]></data>
+  <data name="en_spotpolygon206websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon207_tooltip"><![CDATA[Martha Washington and the Custis Estate]]></data>
+  <data name="en_spotpolygon207websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=479]]></data>
+  <data name="en_spotpolygon207websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37598_tooltip"><![CDATA[VIDEO: Ona Judge]]></data>
+  <data name="en_spotpoint37598webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/O9qf6WWc6QU]]></data>
+  <data name="en_spotpoint37598webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37613_tooltip"><![CDATA[Return to Books and Manuscripts A]]></data>
+  <data name="en_spotpoint37614_tooltip"><![CDATA[Continue to Slavery & Freedom in the 19th Century A]]></data>
+
+
+  <data name="en_pano114_title"><![CDATA[Slavery & Freedom in the 19th Century A]]></data>
+  <data name="en_spotpolygon208_tooltip"><![CDATA[Slavery and Freedom]]></data>
+  <data name="en_spotpolygon208websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=480]]></data>
+  <data name="en_spotpolygon208websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon209_tooltip"><![CDATA[An Extraordinary Act]]></data>
+  <data name="en_spotpolygon209websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=481]]></data>
+  <data name="en_spotpolygon209websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon210_tooltip"><![CDATA[Kitty]]></data>
+  <data name="en_spotpolygon210websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=482]]></data>
+  <data name="en_spotpolygon210websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon211_tooltip"><![CDATA[Divergent Paths]]></data>
+  <data name="en_spotpolygon211websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=483]]></data>
+  <data name="en_spotpolygon211websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon212_tooltip"><![CDATA[Christopher Sheels]]></data>
+  <data name="en_spotpolygon212websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=484]]></data>
+  <data name="en_spotpolygon212websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon213_tooltip"><![CDATA[Windsor Chair]]></data>
+  <data name="en_spotpolygon213websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=485]]></data>
+  <data name="en_spotpolygon213websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon214_tooltip"><![CDATA[Washington's Will]]></data>
+  <data name="en_spotpolygon214websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=486]]></data>
+  <data name="en_spotpolygon214websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon215_tooltip"><![CDATA[Ribbon of Names]]></data>
+  <data name="en_spotpolygon215websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=487]]></data>
+  <data name="en_spotpolygon215websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon216_tooltip"><![CDATA[The Custis Inheritance]]></data>
+  <data name="en_spotpolygon216websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=488]]></data>
+  <data name="en_spotpolygon216websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon217_tooltip"><![CDATA[Enslaved Families]]></data>
+  <data name="en_spotpolygon217websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=489]]></data>
+  <data name="en_spotpolygon217websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon221_tooltip"><![CDATA[Divergent Paths Map]]></data>
+  <data name="en_spotpolygon221websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=490]]></data>
+  <data name="en_spotpolygon221websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon222_tooltip"><![CDATA[A Family Tradition]]></data>
+  <data name="en_spotpolygon222websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=491]]></data>
+  <data name="en_spotpolygon222websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon223_tooltip"><![CDATA[The Promise of Freedom]]></data>
+  <data name="en_spotpolygon223websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=492]]></data>
+  <data name="en_spotpolygon223websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon224_tooltip"><![CDATA[Nancy Quander]]></data>
+  <data name="en_spotpolygon224websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=493]]></data>
+  <data name="en_spotpolygon224websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon225_tooltip"><![CDATA[Who were the Custis Heirs?]]></data>
+  <data name="en_spotpolygon225websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=503]]></data>
+  <data name="en_spotpolygon225websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37615_tooltip"><![CDATA[Return to Books and Manuscripts B]]></data>
+  <data name="en_spotpoint37616_tooltip"><![CDATA[Continue to Slavery & Freedom in the 19th Century B]]></data>
+
+
+  <data name="en_pano110_title"><![CDATA[Slavery & Freedom in the 19th Century B]]></data>
+  <data name="en_spotpolygon226_tooltip"><![CDATA[Interpreting Slavery]]></data>
+  <data name="en_spotpolygon226websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=494]]></data>
+  <data name="en_spotpolygon226websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon37582_tooltip"><![CDATA[Eastman Johnson Painting]]></data>
+  <data name="en_spotpolygon37582websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=495]]></data>
+  <data name="en_spotpolygon37582websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon37584_tooltip"><![CDATA[A Piece of Mount Vernon]]></data>
+  <data name="en_spotpolygon37584websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=496]]></data>
+  <data name="en_spotpolygon37584websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon37585_tooltip"><![CDATA[Edmund Parker]]></data>
+  <data name="en_spotpolygon37585websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=497]]></data>
+  <data name="en_spotpolygon37585websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon37586_tooltip"><![CDATA[Mount Vernon in the 19th Century]]></data>
+  <data name="en_spotpolygon37586websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=498]]></data>
+  <data name="en_spotpolygon37586websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon37587_tooltip"><![CDATA[Mount Vernon Slavery Database]]></data>
+  <data name="en_spotpolygon37587websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[http://www.mountvernon.org/site/poi/index.php?id=499]]></data>
+  <data name="en_spotpolygon37587websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpolygon37588_tooltip"><![CDATA[The Return]]></data>
+  <data name="en_spotpolygon37588websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=500]]></data>
+  <data name="en_spotpolygon37588websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37599_tooltip"><![CDATA[VIDEO: Oral History]]></data>
+  <data name="en_spotpoint37599webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/J5pf3-zRykU]]></data>
+  <data name="en_spotpoint37599webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_spotpoint37617_tooltip"><![CDATA[Return to Slavery & Freedom in the 19th Century A]]></data>
+  <data name="en_spotpoint37618_tooltip"><![CDATA[START OVER]]></data>
+
+
+
+
+
+
+  <data name="en_logowebsiteurl"><![CDATA[https://www.mountvernon.org]]></data>
+  <data name="en_panotourmapskey"><![CDATA[]]></data>
+  <data name="en_panotourmapsmap_title"><![CDATA[George Washington's Mount Vernon Estate]]></data>
+  <data name="en_panotourmapsdisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[]]></data>
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[]]></data>
+  <data name="en_websiteViewer1close_text"><![CDATA[]]></data>
+  <data name="en_websiteViewer6close_text"><![CDATA[]]></data>
+  <data name="en_websiteViewer5close_text"><![CDATA[]]></data>
+  <data name="en_button12tooltip"><![CDATA[PRODUCED BY HULLFILM]]></data>
+  <data name="en_debugPanoramaDirectoriesseparatorString"><![CDATA[;]]></data>
+  <data name="en_debugPanoramaDirectoriesseparatorStringG"><![CDATA[;]]></data>
+  <data name="en_eventsPluginontourstartaction152825webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://vimeo.com/185798426]]></data>
+  <data name="en_eventsPluginontourstartaction152825webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
+  <data name="en_button13tooltip"><![CDATA[NEXT LOCATION]]></data>
+  <data name="en_button15tooltip"><![CDATA[PREVIOUS LOCATION]]></data>
+  <data name="en_togglebutton5firsttooltip"><![CDATA[SHOW TOUR INTERFACE]]></data>
+  <data name="en_togglebutton5secondtooltip"><![CDATA[HIDE TOUR INTERFACE]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
