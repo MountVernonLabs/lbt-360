@@ -11,14 +11,14 @@
 
 
 
-  <data name="en_pano10_title"><![CDATA[Slavery & the Washingtons' World]]></data>
+  <data name="en_pano10_title"><![CDATA[Slavery and the Washingtons' World]]></data>
   <data name="en_spotpolygon131_tooltip"><![CDATA[Houdon Bust]]></data>
   <data name="en_spotpolygon131websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=424]]></data>
   <data name="en_spotpolygon131websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon132_tooltip"><![CDATA[Population of Mount Vernon]]></data>
+  <data name="en_spotpolygon132_tooltip"><![CDATA[Lives Bound Together]]></data>
   <data name="en_spotpolygon132websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=425]]></data>
   <data name="en_spotpolygon132websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon133_tooltip"><![CDATA[Slavery & the Washingtons' World]]></data>
+  <data name="en_spotpolygon133_tooltip"><![CDATA[Slavery and the Washingtons' World]]></data>
   <data name="en_spotpolygon133websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=426]]></data>
   <data name="en_spotpolygon133websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon134_tooltip"><![CDATA[Tom]]></data>
@@ -33,7 +33,7 @@
   <data name="en_spotpolygon137_tooltip"><![CDATA[Frank Lee]]></data>
   <data name="en_spotpolygon137websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=430]]></data>
   <data name="en_spotpolygon137websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon138_tooltip"><![CDATA[Reading Between the Lines]]></data>
+  <data name="en_spotpolygon138_tooltip"><![CDATA[A Guest for Coffee]]></data>
   <data name="en_spotpolygon138websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=431]]></data>
   <data name="en_spotpolygon138websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon139_tooltip"><![CDATA[Kitchen Equipment]]></data>
@@ -64,7 +64,7 @@
   <data name="en_spotpolygon145_tooltip"><![CDATA[William Lee]]></data>
   <data name="en_spotpolygon145websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=438]]></data>
   <data name="en_spotpolygon145websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon146_tooltip"><![CDATA[Washington and the Revolutionary War]]></data>
+  <data name="en_spotpolygon146_tooltip"><![CDATA[Washington's Changing Views]]></data>
   <data name="en_spotpolygon146websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=439]]></data>
   <data name="en_spotpolygon146websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon147_tooltip"><![CDATA[Portrait of George Washington]]></data>
@@ -73,10 +73,10 @@
   <data name="en_spotpolygon148_tooltip"><![CDATA[Washington and William Lee]]></data>
   <data name="en_spotpolygon148websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=441]]></data>
   <data name="en_spotpolygon148websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon149_tooltip"><![CDATA[Washington's Views]]></data>
+  <data name="en_spotpolygon149_tooltip"><![CDATA[What did Washington think about slavery?]]></data>
   <data name="en_spotpolygon149websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=442]]></data>
   <data name="en_spotpolygon149websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon150_tooltip"><![CDATA[Changing Views]]></data>
+  <data name="en_spotpolygon150_tooltip"><![CDATA[Soldier, Statesman, Slaveholder]]></data>
   <data name="en_spotpolygon150websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=443]]></data>
   <data name="en_spotpolygon150websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon151_tooltip"><![CDATA[The Washington Family]]></data>
@@ -97,8 +97,9 @@
   <data name="en_spotpoint37592_tooltip"><![CDATA[VIDEO: Hercules]]></data>
   <data name="en_spotpoint37592webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/mLaC8fknN4s]]></data>
   <data name="en_spotpoint37592webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
-  <data name="en_spotpoint37601_tooltip"><![CDATA[Return to Slavery & the Washingtons' World]]></data>
+  <data name="en_spotpoint37601_tooltip"><![CDATA[Return to Slavery and the Washingtons' World]]></data>
   <data name="en_spotpoint37602_tooltip"><![CDATA[Continue to Clothing and Personal Style]]></data>
+  <data name="en_spotpoint37851_tooltip"><![CDATA[To Daily Life on Mount Vernon's Five Farms A]]></data>
 
 
   <data name="en_pano12_title"><![CDATA[Clothing and Personal Style]]></data>
@@ -111,13 +112,13 @@
   <data name="en_spotpolygon158_tooltip"><![CDATA[Personal Accessories]]></data>
   <data name="en_spotpolygon158websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=449]]></data>
   <data name="en_spotpolygon158websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon159_tooltip"><![CDATA[Reproduction Clothing]]></data>
+  <data name="en_spotpolygon159_tooltip"><![CDATA[Clothing for the Mansion and the Field]]></data>
   <data name="en_spotpolygon159websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=450]]></data>
   <data name="en_spotpolygon159websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon160_tooltip"><![CDATA[Textile Production]]></data>
   <data name="en_spotpolygon160websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=451]]></data>
   <data name="en_spotpolygon160websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon161_tooltip"><![CDATA[Clothing Rations]]></data>
+  <data name="en_spotpolygon161_tooltip"><![CDATA[Two Handsome Caps]]></data>
   <data name="en_spotpolygon161websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=502]]></data>
   <data name="en_spotpolygon161websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpoint37603_tooltip"><![CDATA[Continue to Daily Life on Mount Vernon's Five Farms A]]></data>
@@ -125,7 +126,7 @@
 
 
   <data name="en_pano103_title"><![CDATA[Daily Life on Mount Vernon's Five Farms A]]></data>
-  <data name="en_spotpolygon162_tooltip"><![CDATA[Daily Life]]></data>
+  <data name="en_spotpolygon162_tooltip"><![CDATA[Daily Life on Mount Vernon's Five Farms]]></data>
   <data name="en_spotpolygon162websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=452]]></data>
   <data name="en_spotpolygon162websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon163_tooltip"><![CDATA[Sambo]]></data>
@@ -193,7 +194,7 @@
   <data name="en_spotpolygon181_tooltip"><![CDATA[Living Conditions]]></data>
   <data name="en_spotpolygon181websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=456]]></data>
   <data name="en_spotpolygon181websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon182_tooltip"><![CDATA[Community and Traditions]]></data>
+  <data name="en_spotpolygon182_tooltip"><![CDATA[Community and Tradition]]></data>
   <data name="en_spotpolygon182websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=464]]></data>
   <data name="en_spotpolygon182websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon183_tooltip"><![CDATA[Kate]]></data>
@@ -210,16 +211,16 @@
 
 
   <data name="en_pano111_title"><![CDATA[Daily Life on Mount Vernon's Five Farms C]]></data>
-  <data name="en_spotpolygon184_tooltip"><![CDATA[Growth of Community]]></data>
+  <data name="en_spotpolygon184_tooltip"><![CDATA[Growth of the Enslaved Community]]></data>
   <data name="en_spotpolygon184websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=466]]></data>
   <data name="en_spotpolygon184websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon185_tooltip"><![CDATA[Edward Savage Paintings]]></data>
+  <data name="en_spotpolygon185_tooltip"><![CDATA[Black and White Landscapes]]></data>
   <data name="en_spotpolygon185websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=467]]></data>
   <data name="en_spotpolygon185websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon186_tooltip"><![CDATA[Davy Gray]]></data>
   <data name="en_spotpolygon186websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=461]]></data>
   <data name="en_spotpolygon186websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon187_tooltip"><![CDATA[Agricultural Management]]></data>
+  <data name="en_spotpolygon187_tooltip"><![CDATA[Agricultural Labor]]></data>
   <data name="en_spotpolygon187websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=468]]></data>
   <data name="en_spotpolygon187websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon188_tooltip"><![CDATA[Day in the Life of an Enslaved Field Worker]]></data>
@@ -236,6 +237,7 @@
   <data name="en_spotpolygon191websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpoint37609_tooltip"><![CDATA[Return to Daily Life on Mount Vernon's Five Farms B]]></data>
   <data name="en_spotpoint37610_tooltip"><![CDATA[Continue to Books and Manuscripts A]]></data>
+  <data name="en_spotpoint37852_tooltip"><![CDATA[To Slavery and Freedom at Mount Vernon in the 19th Century A]]></data>
 
 
   <data name="en_pano112_title"><![CDATA[Books and Manuscripts A]]></data>
@@ -299,10 +301,10 @@
   <data name="en_spotpoint37598webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/O9qf6WWc6QU]]></data>
   <data name="en_spotpoint37598webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
   <data name="en_spotpoint37613_tooltip"><![CDATA[Return to Books and Manuscripts A]]></data>
-  <data name="en_spotpoint37614_tooltip"><![CDATA[Continue to Slavery & Freedom in the 19th Century A]]></data>
+  <data name="en_spotpoint37614_tooltip"><![CDATA[Continue to Slavery and Freedom at Mount Vernon in the 19th Century A]]></data>
 
 
-  <data name="en_pano114_title"><![CDATA[Slavery & Freedom in the 19th Century A]]></data>
+  <data name="en_pano114_title"><![CDATA[Slavery and Freedom at Mount Vernon in the 19th Century A]]></data>
   <data name="en_spotpolygon208_tooltip"><![CDATA[Slavery and Freedom]]></data>
   <data name="en_spotpolygon208websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=480]]></data>
   <data name="en_spotpolygon208websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
@@ -333,7 +335,7 @@
   <data name="en_spotpolygon217_tooltip"><![CDATA[Enslaved Families]]></data>
   <data name="en_spotpolygon217websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=489]]></data>
   <data name="en_spotpolygon217websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon221_tooltip"><![CDATA[Divergent Paths Map]]></data>
+  <data name="en_spotpolygon221_tooltip"><![CDATA[Mapping the Enslaved Community]]></data>
   <data name="en_spotpolygon221websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=490]]></data>
   <data name="en_spotpolygon221websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon222_tooltip"><![CDATA[A Family Tradition]]></data>
@@ -349,14 +351,15 @@
   <data name="en_spotpolygon225websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=503]]></data>
   <data name="en_spotpolygon225websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpoint37615_tooltip"><![CDATA[Return to Books and Manuscripts B]]></data>
-  <data name="en_spotpoint37616_tooltip"><![CDATA[Continue to Slavery & Freedom in the 19th Century B]]></data>
+  <data name="en_spotpoint37616_tooltip"><![CDATA[Continue to Slavery and Freedom at Mount Vernon in the 19th Century B]]></data>
+  <data name="en_spotpoint37853_tooltip"><![CDATA[To Daily Life on Mount Vernon's Five Farms C]]></data>
 
 
-  <data name="en_pano110_title"><![CDATA[Slavery & Freedom in the 19th Century B]]></data>
+  <data name="en_pano110_title"><![CDATA[Slavery and Freedom at Mount Vernon in the 19th Century B]]></data>
   <data name="en_spotpolygon226_tooltip"><![CDATA[Interpreting Slavery]]></data>
   <data name="en_spotpolygon226websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=494]]></data>
   <data name="en_spotpolygon226websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon37582_tooltip"><![CDATA[Eastman Johnson Painting]]></data>
+  <data name="en_spotpolygon37582_tooltip"><![CDATA[Images of Mount Vernon]]></data>
   <data name="en_spotpolygon37582websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=495]]></data>
   <data name="en_spotpolygon37582websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon37584_tooltip"><![CDATA[A Piece of Mount Vernon]]></data>
@@ -368,8 +371,8 @@
   <data name="en_spotpolygon37586_tooltip"><![CDATA[Mount Vernon in the 19th Century]]></data>
   <data name="en_spotpolygon37586websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=498]]></data>
   <data name="en_spotpolygon37586websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
-  <data name="en_spotpolygon37587_tooltip"><![CDATA[Mount Vernon Slavery Database]]></data>
-  <data name="en_spotpolygon37587websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[http://www.mountvernon.org/site/poi/index.php?id=499]]></data>
+  <data name="en_spotpolygon37587_tooltip"><![CDATA[Enslaved Community Database]]></data>
+  <data name="en_spotpolygon37587websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=499]]></data>
   <data name="en_spotpolygon37587websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
   <data name="en_spotpolygon37588_tooltip"><![CDATA[The Return]]></data>
   <data name="en_spotpolygon37588websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[https://www.mountvernon.org/site/poi/index.php?id=500]]></data>
@@ -377,8 +380,11 @@
   <data name="en_spotpoint37599_tooltip"><![CDATA[VIDEO: Oral History]]></data>
   <data name="en_spotpoint37599webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://youtu.be/J5pf3-zRykU]]></data>
   <data name="en_spotpoint37599webVideoViewer|webVideoViewer|displaywebvideovideo_title"><![CDATA[]]></data>
-  <data name="en_spotpoint37617_tooltip"><![CDATA[Return to Slavery & Freedom in the 19th Century A]]></data>
+  <data name="en_spotpoint37617_tooltip"><![CDATA[Return to Slavery and Freedom at Mount Vernon in the 19th Century A]]></data>
   <data name="en_spotpoint37618_tooltip"><![CDATA[START OVER]]></data>
+  <data name="en_spotpolygon37850_tooltip"><![CDATA[Images of Mount Vernon]]></data>
+  <data name="en_spotpolygon37850websiteViewer1|websiteViewer|displaywebsitewebsite_url"><![CDATA[http://www.mountvernon.org/site/poi/index.php?id=495]]></data>
+  <data name="en_spotpolygon37850websiteViewer1|websiteViewer|displaywebsitewebsite_title"><![CDATA[]]></data>
 
 
 
@@ -393,9 +399,11 @@
   <data name="en_descriptiondescription_title"><![CDATA[]]></data>
   <data name="en_websiteViewerclose_text"><![CDATA[]]></data>
   <data name="en_websiteViewer1close_text"><![CDATA[]]></data>
-  <data name="en_websiteViewer6close_text"><![CDATA[]]></data>
   <data name="en_websiteViewer5close_text"><![CDATA[]]></data>
+  <data name="en_websiteViewer6close_text"><![CDATA[]]></data>
   <data name="en_button12tooltip"><![CDATA[PRODUCED BY HULLFILM]]></data>
+  <data name="en_button8tooltip"><![CDATA[ZOOM OUT]]></data>
+  <data name="en_button6tooltip"><![CDATA[ZOOM IN]]></data>
   <data name="en_debugPanoramaDirectoriesseparatorString"><![CDATA[;]]></data>
   <data name="en_debugPanoramaDirectoriesseparatorStringG"><![CDATA[;]]></data>
   <data name="en_eventsPluginontourstartaction152825webVideoViewer|webVideoViewer|displaywebvideovideo_url"><![CDATA[https://vimeo.com/185798426]]></data>
@@ -404,6 +412,9 @@
   <data name="en_button15tooltip"><![CDATA[PREVIOUS LOCATION]]></data>
   <data name="en_togglebutton5firsttooltip"><![CDATA[SHOW TOUR INTERFACE]]></data>
   <data name="en_togglebutton5secondtooltip"><![CDATA[HIDE TOUR INTERFACE]]></data>
+  <data name="en_togglebutton4firsttooltip"><![CDATA[]]></data>
+  <data name="en_togglebutton4secondtooltip"><![CDATA[]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
   <data name="en_webVideoViewerclose_text"><![CDATA[]]></data>
 
 
